@@ -16,6 +16,9 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+h1 {
+  font-weight: bold;
+}
 video {
 
     object-fit: cover;
