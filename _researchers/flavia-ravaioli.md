@@ -1,6 +1,6 @@
 ---
 title: Flavia Ravaioli
-institution: Fitzwilliam Museum
+institution: The Fitzwilliam Museum
 image: /images/staff/Flavia.jpg
 layout: team
 job-title: Assistant Conservator
