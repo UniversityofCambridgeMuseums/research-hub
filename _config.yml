@@ -21,7 +21,11 @@ baseurl: "/research-hub" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: camunivmuseums
 github_username:  jekyll
-
+lang: EN_GB
+timezone: Europe/London
+permalink: pretty
+encoding: "utf-8"
+read_time: true
 # Build settings
 markdown: kramdown
 theme: minima
