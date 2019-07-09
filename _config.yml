@@ -39,10 +39,16 @@ collections:
       output: true
    projects:
       output: true
+   researchers:
+      output: true
+   ideas:
+      output: true
 feed:
   collections:
     - news
     - projects
+    - researchers
+    - ideas
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
