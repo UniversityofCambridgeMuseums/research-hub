@@ -356,3 +356,7 @@ svg {
   background-position: center center;
   background-repeat: no-repeat;
 }
+
+a, a hover {
+color: #000!important;
+}
