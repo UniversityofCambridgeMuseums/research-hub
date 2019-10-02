@@ -1,0 +1,11 @@
+<div class="col-md-6 mb-4 heading-body p-4 mx-auto">
+  <h1 id="doc-main-h1">
+    {% if page.heading != blank %}
+    {{ page.heading }}
+    {% else %}
+    {{ page.title }}
+    {% endif %}
+  </h1>
+  <p class="emph">{{ page.strapline }}</p>
+</div>
+<div class="row filler"></div>

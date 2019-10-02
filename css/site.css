@@ -1,9 +1,9 @@
 .head {
-    background-image: url(../images/web-penguin-rainbow_5.jpg);
+    background-image: url(../images/layouts/maa.jpg);
     background-position: 20% 20%;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 8rem;
+    padding-top:25rem;
     }
 
 
@@ -12,10 +12,20 @@
 }
 
 body {
-    background-color:#A2D9F0;
+    background-color:#ffffff;
     font-family: 'Montserrat', sans-serif;
 }
-
+.heading-body {
+  background-color:#A2D9F0;
+  position: absolute;
+  top: 24rem;
+  left: 25rem;
+  z-index: 1;
+  margin-bottom: 5rem;
+}
+.filler {
+  height: 3rem;
+}
 h1,h2,h3,h4,h5 {
   font-weight: bold;
 }
@@ -258,5 +268,84 @@ svg {
   width: 50%;
 }
 .minimum {
-  height:200px;
+  height:360px;
+}
+.card-blue {
+  background-color:#A2D9F0;
+}
+.card-blue img {
+  max-height: 150px;
+}
+.emph {
+  font-size: 1.2rem;
+}
+.maa {
+  background-image: url(../images/collections/maa.jpg);
+  background-position: 20% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:25rem;
+}
+.moca {
+  background-image: url(../images/collections/moca.jpg);
+  background-position: 20% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:25rem;
+}
+.fitz {
+  background-image: url(../images/collections/fitz.jpg);
+  background-position: 20% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:25rem;
+}
+.kettles {
+  background-image: url(../images/collections/kettles.jpg);
+  background-position: 20% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:25rem;
+}
+.botanic {
+  background-image: url(../images/collections/botanic.jpg);
+  background-position: 20% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:25rem;
+}
+.herbarium {
+  background-image: url(../images/collections/herbarium.jpg);
+  background-position: 20% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:25rem;
+}
+.sedgwick {
+  background-image: url(../images/collections/sedgwick.jpg);
+  background-position: 20% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:25rem;
+}
+.whipple {
+  background-image: url(../images/collections/whipple.jpg);
+  background-position: 20% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:25rem;
+}
+.zoology {
+  background-image: url(../images/collections/zoology.jpg);
+  background-position: 20% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:25rem;
+}
+
+.center-cropped {
+  width: 100px;
+  height: 100px;
+  background-position: center center;
+  background-repeat: no-repeat;
 }

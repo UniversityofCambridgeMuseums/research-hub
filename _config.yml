@@ -47,12 +47,19 @@ collections:
       output: true
    ideas:
       output: true
+   collections:
+      output: true
+   casestudies:
+      output: true
 feed:
   collections:
     - news
     - projects
     - researchers
     - ideas
+    - collections
+    - casestudies
+    
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
