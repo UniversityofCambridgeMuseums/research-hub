@@ -342,6 +342,13 @@ svg {
   background-size: cover;
   padding-top:25rem;
 }
+.zoology {
+  background-image: url(../images/collections/zoology.jpg);
+  background-position: 20% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:25rem;
+}
 
 .center-cropped {
   width: 100px;

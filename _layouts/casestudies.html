@@ -20,21 +20,21 @@
 
 {% include /structure/navigation.html %}
 
-{% if page.image %}
-{% assign class = page.image %}
-{% else %}
+
 {% assign class = 'head' %}
-{% endif %}
 
 {% include /structure/jumbotron.html %}
 {% include /structure/title.html %}
 <div class="container">
-  <div class="p-3 mx-auto mb-3 bg-white rounded">
-    {% include /structure/casestudies.html %}
-  </div>
-  {% else %}
-  {{ content }}
-  {% endif %}
+
+      {% if page.url == '/casestudies'  %}
+      <div class="p-3 mx-auto mb-3 bg-white rounded">
+        {% include /structure/casestudies.html %}
+      </div>
+      {% else %}
+      {{ content }}
+
+      {% endif %}
 </div>
 
 {% include structure/footer.html %}

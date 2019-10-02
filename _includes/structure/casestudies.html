@@ -1,4 +1,4 @@
-{% for collection in site.collections %}
+{% for collection in site.casestudies %}
 {% assign loopindex = forloop.index | modulo: 2 %}
 {% if loopindex == 1  %}
 <div class="row">
@@ -12,7 +12,7 @@
             <a href="{{ collection.permalink }}">{{ collection.title }} {{ label.object_1_title }}</a>
           </h3>
           <div class="center-cropped img-fluid rounded-circle float-right"
-          style="background-image: url('/images/collections/{{ collection.image }}.jpg');">
+          style="background-image: url('/images/casestudies/{{ collection.image }}');">
         </div>
         {{ collection.content | truncate: 500 }}
       </div>
@@ -32,7 +32,7 @@
           <a href="{{ collection.permalink }}">{{ collection.title }}</a>
         </h3>
         <div class="center-cropped img-fluid rounded-circle float-right"
-        style="background-image: url('/images/collections/{{ collection.image }}.jpg');">
+        style="background-image: url('/images/casestudies/{{ collection.image }}');">
       </div>
         {{ collection.content | truncate: 500 }}
       </div>
