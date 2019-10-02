@@ -14,7 +14,7 @@
           <div class="center-cropped img-fluid rounded-circle float-right"
           style="background-image: url('/images/collections/{{ collection.image }}.jpg');">
         </div>
-        {{ collection.content | truncate: 500 }}
+        {{ collection.content | truncate: 300 }}
       </div>
     </div>
     <a href="{{ collection.permalink }}" class="btn btn-dark">Read more</a>
@@ -33,8 +33,8 @@
         </h3>
         <div class="center-cropped img-fluid rounded-circle float-right"
         style="background-image: url('/images/collections/{{ collection.image }}.jpg');">
-      </div>  
-        {{ collection.content | truncate: 500 }}
+      </div>
+        {{ collection.content | truncate: 300 }}
       </div>
     </div>
     <a href="{{ collection.permalink }}" class="btn btn-dark">Read more</a>
