@@ -268,7 +268,7 @@ svg {
   width: 50%;
 }
 .minimum {
-  height:360px;
+  min-height:360px;
 }
 .card-blue {
   background-color:#A2D9F0;
