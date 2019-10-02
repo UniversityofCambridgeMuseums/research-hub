@@ -3,7 +3,7 @@
 This repository contains the code that powers a Jekyll site for the
 University of Cambridge Museums Group research hub. This will be maintained (content) by Jo Vine, Jo McPhee and Hannah Price. Code by @portableant
 
-![](images/screenshots/front.jpg)
+![](images/screenshots/front.png)
 
 ## To run on your local machine
 
