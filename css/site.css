@@ -276,6 +276,9 @@ svg {
 }
 .emph {
   font-size: 1.2rem;
+  font-family: "Noto Serif",serif;
+  font-style: italic;
+  color: #000;
 }
 .maa {
   background-image: url(../images/collections/maa.jpg);
