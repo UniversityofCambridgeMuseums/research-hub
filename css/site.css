@@ -15,14 +15,25 @@ body {
   background-color:#ffffff;
   font-family: 'Montserrat', sans-serif;
 }
-.heading-body {
-  background-color:#A2D9F0;
-  position: absolute;
-  top: 24rem;
-  left: 25rem;
-  z-index: 1;
-  margin-bottom: 5rem;
+
+@media screen and (min-width: 600px) {
+  .col-yellow img {
+    margin-bottom: 10px;
+  }
+  .heading-body {
+    background-color:#A2D9F0;
+    position: absolute;
+    top: 24rem;
+    left: 25rem;
+    z-index: 1;
+    margin-bottom: 5rem;
+  }
 }
+  .heading-body {
+    background-color:#A2D9F0;
+    margin-bottom: 5rem;
+    left: 10px;
+  }
 .filler {
   height: 3rem;
 }
