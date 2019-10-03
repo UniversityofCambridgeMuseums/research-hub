@@ -3,7 +3,7 @@ title: Helen  Strudwick
 image: /images/staff/HelenStrudwick.jpg
 institution: The Fitzwilliam Museum
 job-title: Associate Curator (Egyptian Antiquities)
-layout: team
+layout: researchers
 twitter: "@hmstrudwick"
 order: 4
 ---

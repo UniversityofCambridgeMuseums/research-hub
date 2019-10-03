@@ -3,7 +3,7 @@ title: Dr Mark Elliot
 image: "/images/staff/mark-elliot.jpg"
 institution: Museum of Archaeology and Anthropology
 job-title: Senior Curator Anthropology
-layout: team
+layout: researchers
 ---
 Mark Elliott (MA, PhD, FRAI) is curator with responsibility for the Asian, European and African ethnography collections.
 

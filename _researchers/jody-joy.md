@@ -4,7 +4,7 @@ twitter: "@CatrionaCooper"
 image: "/images/staff/jjoy.jpg"
 institution: Museum of Archaeology and Anthropology
 job-title: Senior Curator Archaeology
-layout: team
+layout: researchers
 ---
 Jody Joy (BA, MA, PhD, FSA) is curator with responsibility for British and European Archaeology.
 

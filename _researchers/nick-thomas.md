@@ -3,7 +3,7 @@ title: Professor Nicholas Thomas
 image: /images/staff/nickthomas.jpg
 institution: The Museum of Archaeology and Anthropology
 job-title: Director and Curator
-layout: team
+layout: researchers
 ---
 
 Nicholas Thomas, who has been Director of MAA since 2006, is an anthropologist and historian. He visited the Pacific Islands first in 1984 to research his PhD thesis on the Marquesas Islands, later worked in Fiji and New Zealand, as well as in many archives and museum collections in Europe, north America, and the Pacific itself.

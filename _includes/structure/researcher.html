@@ -1,0 +1,31 @@
+<div class="row">
+  <div class="col-md-12 mb-3 minimum">
+    <div class="card card-body h-100 card-blue ">
+
+      <div class="container h-100">
+
+        <div class="contents-label">
+          <h3>{{ page.title }} {{ label.object_1_title }}</h3>
+          {% if page.job-title %}
+          <h4 class="text-muted">{{ page.job-title}} </h4>
+          {% endif %}
+          <div>
+            <img class="center-cropped img-fluid rounded-circle float-right" src="{{ site.baseurl}}{{page.image}}" />
+          </div>
+          {{ page.content }}
+          {% if page.institution %}
+          <p>
+            <span class="chip text-truncate"><i class="chip-icon"><i class="fas fa-sitemap"></i></i>{{ page.institution}}</span>
+            {% if page.twitter != blank %}
+            <span class="chip text-truncate"><i class="chip-icon"><i class="fab fa-twitter"></i></i>{{ page.twitter}}</span>
+            {% endif %}
+            {% if page.orcid != blank %}
+            <span class="chip text-truncate"><i class="chip-icon"></i>OrcID: {{ page.orcid}}</span>
+            {% endif %}
+          </p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -3,7 +3,7 @@ title: Jennifer Marchant
 image: /images/staff/JennyMarchant.jpg
 institution: The Fitzwilliam Museum
 job-title: Antiquities Conservator
-layout: team
+layout: researchers
 twitter: "@SpinninJen"
 order: 2
 ---

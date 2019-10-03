@@ -2,7 +2,7 @@
 title: Flavia Ravaioli
 institution: The Fitzwilliam Museum
 image: /images/staff/Flavia.jpg
-layout: team
+layout: researchers
 job-title: Assistant Conservator
 order: 11
 ---

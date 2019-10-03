@@ -4,7 +4,7 @@ institution: The Fitzwilliam Museum
 twitter: "@AChristophilop1"
 image: "/images/staff/anastasia.jpg"
 job-title: Cyprus Curator - Assistant Keeper
-layout: team
+layout: researchers
 ---
 
 Dr Anastasia Christophilopoulou is the Assistant Keeper and Cyprus Curator for the Department of Antiquities of the Fitzwilliam Museum, Cambridge. She conducted postdoctoral research in Berlin for two years before moving to the Department of Antiquities.

@@ -1,19 +1,19 @@
 .head {
-    background-image: url(../images/layouts/maa.jpg);
-    background-position: 20% 20%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-top:25rem;
-    }
+  background-image: url(../images/layouts/maa.jpg);
+  background-position: 20% 20%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top:25rem;
+}
 
 
 .bg-black {
-    background-color: #000000!important;
+  background-color: #000000!important;
 }
 
 body {
-    background-color:#ffffff;
-    font-family: 'Montserrat', sans-serif;
+  background-color:#ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 .heading-body {
   background-color:#A2D9F0;
@@ -31,13 +31,13 @@ h1,h2,h3,h4,h5 {
 }
 video {
 
-    object-fit: cover;
+  object-fit: cover;
 }
 .share a {
-    color: #fff;
+  color: #fff;
 }
 .shareTwitter a {
-    color: #000;
+  color: #000;
 }
 
 .cd-nugget-info {
@@ -81,7 +81,7 @@ video {
   bottom: 40px;
   right: 10px;
   -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
-          box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
   /* image replacement properties */
   overflow: hidden;
   text-indent: 100%;
@@ -134,85 +134,83 @@ video {
 
 
 .thumb-post img {
-    object-fit: cover;
+  object-fit: cover;
 }
 
 .carousel-control-prev, .carousel-control-next, .carousel-indicators li {
-    background-color: hsla(0, 93%, 31%, 0.98)
+  background-color: hsla(0, 93%, 31%, 0.98)
 }
 #sponsors img {
-    height: 50px;
-    margin-right: 10px;
-    margin-bottom: 10px;
+  height: 50px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 .carousel-item img {
-   min-width: auto;
-   max-height:auto;
- }
+  min-width: auto;
+  max-height:auto;
+}
 
 .badge-wine {
-    background-color: #731200;
-    color: #fff;
-    padding: 10px;
+  background-color: #731200;
+  color: #fff;
+  padding: 10px;
 }
-
 .btn-wine {
-    background-color: #731200;
-    color: #fff;
-    padding: 10px;
-}}
-
+  background-color: #731200;
+  color: #fff;
+  padding: 10px;
+}
 .max-coffins {
-    max-width: 100%;
+  max-width: 100%;
 }
 .share li {
-    list-style: none;
-    margin-left: -40px;
+  list-style: none;
+  margin-left: -40px;
 }
 
 #error {
-    object-fit: cover;
-    width: 100%;
+  object-fit: cover;
+  width: 100%;
 }
 
 .coffin  {
-    height: 150px;
-    width: 150px;
+  height: 150px;
+  width: 150px;
 }
 
 .contact .btn {
-    background-color: #731200;
-    color: #fff;
+  background-color: #731200;
+  color: #fff;
 }
 
 label.cm-app-label {
-    color: white;
+  color: white;
 }
 /**
- * The following code will make a github embedded gists reponsive
- * The gist will be 100% in width width, and scroll if a line is to long
- * if you want wrapping, uncomment the wrapping section
- * Do note that identation may be butcherd tough
- */
+* The following code will make a github embedded gists reponsive
+* The gist will be 100% in width width, and scroll if a line is to long
+* if you want wrapping, uncomment the wrapping section
+* Do note that identation may be butcherd tough
+*/
 .gist{
 
-   width:100%;
+  width:100%;
 
-   & table{
-	table-layout: fixed;
+  & table{
+    table-layout: fixed;
   }
 
   & td.js-line-number{
-	// We need an explicit width for the other column to be auto
-	width: 50px;
-		text-align: center;
-	}
+    // We need an explicit width for the other column to be auto
+    width: 50px;
+    text-align: center;
+  }
 
   & .blob-code-inner {
-	 white-space: pre-wrap;
-	 whites-space: wrap;
-	 word-wrap:break-word;
+    white-space: pre-wrap;
+    whites-space: wrap;
+    word-wrap:break-word;
   }
 }
 
@@ -230,8 +228,8 @@ label.cm-app-label {
   height: 100%;
   width: auto;
   -webkit-transform: translate(-50%,-50%);
-      -ms-transform: translate(-50%,-50%);
-          transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
 }
 
 .news-thumb img.portrait {
@@ -240,10 +238,10 @@ label.cm-app-label {
 }
 
 .row-hack {
-    -ms-flex-wrap: wrap;
-    display: -ms-flexbox;
-    display: flex;
-    flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
 }
 .text-truncate {
   overflow: hidden;
@@ -252,11 +250,11 @@ label.cm-app-label {
 }
 
 figcaption.figure-caption {
-    font-size: 1.2em;
-    margin-top: 10px;
+  font-size: 1.2em;
+  margin-top: 10px;
 }
 .pdfobject-container  {
-height: 50rem; border: 1rem solid rgba(0,0,0,.1);
+  height: 50rem; border: 1rem solid rgba(0,0,0,.1);
 }
 .col-black {
   background-color: black;
@@ -358,5 +356,5 @@ svg {
 }
 
 h3 a, h3 a hover {
-color: #000!important;
+  color: #000!important;
 }

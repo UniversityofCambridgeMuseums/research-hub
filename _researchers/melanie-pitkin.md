@@ -4,7 +4,7 @@ twitter: '@melanie_misr'
 image: /images/staff/MPitkin.jpg
 institution: The Fitzwilliam Museum
 job-title: Research Fellow CEEF3D/ Egyptian Coffins
-layout: team
+layout: researchers
 ---
 Melanie Pitkin is a Postdoctoral Research Associate for the [Egyptian Coffins
 Project](https://egyptiancoffins.org) and this AHRC funded Creative Economy Fellowship at the Fitzwilliam Museum.
