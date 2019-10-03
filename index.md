@@ -1,6 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: University of Cambridge Museums Research
 heading: Research
 strapline: with the University of Cambridge Museums

@@ -1,6 +1,7 @@
 ---
 layout: researchers
 permalink: /researchers/
-title: University of Cambridge Museums research staff
+title: Research staff
 id: researchers
+strapline: Meet some of our research active staff
 ---
