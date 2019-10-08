@@ -29,11 +29,13 @@ body {
     margin-bottom: 5rem;
   }
 }
-  .heading-body {
-    background-color:#A2D9F0;
-    margin-bottom: 5rem;
-    left: 10px;
-  }
+@media screen and (max-width: 600px) {
+.heading-body {
+  background-color:#A2D9F0;
+  position: absolute;
+  top: 20rem;
+}
+}
 .filler {
   height: 3rem;
 }

@@ -10483,7 +10483,7 @@ select.is-valid.form-control:focus[multiple], select.is-valid.form-control:focus
 
 .navbar-nav {
   display: -ms-flexbox;
-  display: flex;
+  /* display: flex; */
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   list-style: none;
