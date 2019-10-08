@@ -10480,7 +10480,7 @@ select.is-valid.form-control:focus[multiple], select.is-valid.form-control:focus
   flex-wrap: wrap;
   height: 2.25rem;
 }
-
+/* 
 .navbar-nav {
   display: -ms-flexbox;
   /* display: flex; */
@@ -10489,7 +10489,7 @@ select.is-valid.form-control:focus[multiple], select.is-valid.form-control:focus
   list-style: none;
   margin-bottom: 0;
   padding-left: 0;
-}
+} */
 
 .navbar-nav .nav-link {
   border-radius: 2px;

@@ -371,6 +371,10 @@ svg {
   background-repeat: no-repeat;
 }
 
-h3 a, h3 a hover {
+h3 a, h3 a:hover {
   color: #000!important;
+}
+
+a:hover.nav-link {
+    background-color: #F3716D!important;
 }
