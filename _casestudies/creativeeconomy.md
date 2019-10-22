@@ -2,7 +2,7 @@
 layout: casestudies
 title: The Creative Economy Fellowships
 institution: The Fitzwilliam Museum
-image: ceef3d.jpg
+image: timeandmoney.jpg
 permalink: /projects/ceef3d
 ---
 This project which is generously funded by the Arts and Humanities Research Council (AHRC) brings together three key actors in the heritage ecosystem:
