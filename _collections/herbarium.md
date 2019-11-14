@@ -52,6 +52,16 @@ The Hebarium is part of the Department of Plant Sciences, within the University'
 
 1 member of staff
 
-<h3>Planning timeframes</3>
+<h3>Planning timeframes</h3>
 
 When proposing a collaboration, please give as much time as possible, due to the Herbarium's limited capacity. However, the Herbariumcan be relatively responsive if input needed is limited – or if additional resource is available. For research work, if you need student input, please time your project to the academic terms. For projects to start in Michaelmas term for undergraduates, and Summer Students to be applying for funding in Lent term, a year in advance would be ideal to be able to pitch projects to students at appropriate times in the academic year. 
+
+<h2>Further information</h2>
+
+<h3>Key contact</h3>
+Dr Lauren M. Gardiner, Curator of the Cambridge University Herbarium 
+<a href="mailto:lmg32@cam.ac.uk">Email</a> 
+
+<h3>The Herbarium online</h3>
+<a href="https://data.plantsci.cam.ac.uk/herbarium/">Website</a>
+<a href="http://twitter.com/cuherb">Twitter</a> 
