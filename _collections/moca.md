@@ -9,11 +9,16 @@ image: moca
 <h2>The Museum was founded in 1884 to house the Fitzwilliam Museum’s growing collection of plaster casts. Most of the casts in the collection are over 100 years old, and some are more than 200 years old. MOCA also holds a collection of ancient artefacts, more than 10,000 sherds and 5,000 squeezes of ancient inscriptions. The Faculty of Classics houses a purpose-built archive which includes the Mycenae Excavation and Publication Archive.</h2>
 
 <h2>Key objects</h2>
--	Farnese Hercules, plaster cast: part of a collection of c. 30 plaster casts after the antique, originally from a sculpture gallery in a London house owned by Sir George Wombwell and donated to the Fitzwilliam in 1850 by a Mr. John Fitzpatrick.
--	Peplos Kore, unpainted and painted plaster casts: well-known example of an attempt to envision the effects of ancient polychromy, based on watercolours of the original made at the time of its discovery (and therefore also part of the historiography of ancient polychromy).
--	East and West pediments from the Temple of Zeus at Olympia, plaster casts: rare examples of the complete pediments from Olympia, purchased by Sidney Colville, the first director of the Fitzwilliam Museum between 1877 and 1884.
--	Samian Kouros, plaster cast: cast of the largest kouros ever discovered, purchased in 2007.
--	Terme Boxer, plaster cast: cast of a Hellenistic-style boxer discovered in Rome, which was treated in 2015 to replicate the colour of the bronze original.
+
+<b>Farnese Hercules</b> plaster cast: part of a collection of c. 30 plaster casts after the antique, originally from a sculpture gallery in a London house owned by Sir George Wombwell and donated to the Fitzwilliam in 1850 by a Mr. John Fitzpatrick.
+
+<b>Peplos Kore</b>, unpainted and painted plaster casts: well-known example of an attempt to envision the effects of ancient polychromy, based on watercolours of the original made at the time of its discovery (and therefore also part of the historiography of ancient polychromy).
+
+<b>East and West pediments from the Temple of Zeus at Olympia</b>, plaster casts: rare examples of the complete pediments from Olympia, purchased by Sidney Colville, the first director of the Fitzwilliam Museum between 1877 and 1884.
+
+<b>Samian Kouros</b>, plaster cast: cast of the largest kouros ever discovered, purchased in 2007.
+
+<b>Terme Boxer</b>, plaster cast: cast of a Hellenistic-style boxer discovered in Rome, which was treated in 2015 to replicate the colour of the bronze original.
 
 <h2>Collection status</h2>
 The Museum is Accredited. 
