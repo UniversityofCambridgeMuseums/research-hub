@@ -25,7 +25,7 @@ Working towards Designation, and then Accreditation.
 
 <h3>Current research projects</h3>
 
-Current projects include (but at not limited to):
+Current projects include (but are not limited to):
  
 •	Butterflies through Time: using wildlife of the past to guide conservation of the future, Esmee Fairbairn funding, led by the University Museum of Zoology and Department of Zoology, 2019-2022
 •	Genetic loss in UK flora over the past 200 years, after successful pilot project with an MPhil student in the Department of Plant Sciences 2018-19, NERC grant submitted, led by University of Edinburgh 
