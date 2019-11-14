@@ -19,13 +19,13 @@ Key items (collections) include:
 •	c.58,000 specimens comprising the herbarium of John Lindley, the secretary of the Horticultural Society of London (later the Royal Horticultural Society), including many type specimens of important and charismatic ornamental plants grown in gardens today 
 •	c.17,000 specimens collected by renowned ecologist and fellow and master of Corpus Christi College Oliver Rackham (1939-2015)
 
-*Accreditation and Desgignation Status*
+<h3>Collection status</h3>
 
 Working towards Designation, and then Accreditation.
 
-<b>Current research projects</b>
+<h3>Current research projects</h3>
 
-Current project include (but at not limited to):
+Current projects include (but at not limited to):
  
 •	Butterflies through Time: using wildlife of the past to guide conservation of the future, Esmee Fairbairn funding, led by the University Museum of Zoology and Department of Zoology, 2019-2022
 •	Genetic loss in UK flora over the past 200 years, after successful pilot project with an MPhil student in the Department of Plant Sciences 2018-19, NERC grant submitted, led by University of Edinburgh 
@@ -34,3 +34,24 @@ Current project include (but at not limited to):
 •	Phylogenetic revision of the family Neuradaceae, led by Department of Plant Sciences, 2018-
 •	Growing Networks, Getty funded project, led by th Fitzwilliam Museum (non-CU partners including Royal Horticultural Society, Royal Botanic Gardens Kew, Natural History Museum, and Royal Botanic Gardens Edinburgh) 
 •	Mobile Museum: Economic Botany in circulation, AHRC funded project, led by Royal Botanic Gardens Kew and Royal Holloway University of London (non-CU partners include World Museum Liverpool, National Museum Wales, and Glasgow Museum)
+
+<h3>Future priority areas</h3>
+Future priority areas and areas of potential for research collaboration include (but are very definitely not limited to):
+ 
+•	Cambridge Digital Library and Cambridge Digital Humanities
+•	Darwin Correspondence Project and UL Special Collections 
+•	Cambridge Conservation Initiative and IUCN
+
+<h2>Context and capacity</h2>
+
+<h3>Associated academic departments</h3>
+
+The Hebarium is part of the Department of Plant Sciences, within the University's School of Biological Sciences.
+
+<h3>Staffing</h3>
+
+1 member of staff
+
+<h3>Planning timeframes</3>
+
+When proposing a collaboration, please give as much time as possible, due to the Herbarium's limited capacity. However, the Herbariumcan be relatively responsive if input needed is limited – or if additional resource is available. For research work, if you need student input, please time your project to the academic terms. For projects to start in Michaelmas term for undergraduates, and Summer Students to be applying for funding in Lent term, a year in advance would be ideal to be able to pitch projects to students at appropriate times in the academic year. 
