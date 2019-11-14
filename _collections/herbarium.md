@@ -59,9 +59,9 @@ When proposing a collaboration, please give as much time as possible, due to the
 <h2>Further information</h2>
 
 <h3>Key contact</h3>
-Dr Lauren M. Gardiner, Curator of the Cambridge University Herbarium 
+Dr Lauren M. Gardiner, Curator of the Cambridge University Herbarium <b>
 <a href="mailto:lmg32@cam.ac.uk">Email</a> 
 
 <h3>The Herbarium online</h3>
-<a href="https://data.plantsci.cam.ac.uk/herbarium/">Website</a>
+<a href="https://data.plantsci.cam.ac.uk/herbarium/">Website</a><b>
 <a href="http://twitter.com/cuherb">Twitter</a> 
