@@ -20,4 +20,17 @@ Key items (collections) include:
 •	c.17,000 specimens collected by renowned ecologist and fellow and master of Corpus Christi College Oliver Rackham (1939-2015)
 
 *Accreditation and Desgignation Status*
+
 Working towards Designation, and then Accreditation.
+
+<b>Current research projects</b>
+
+Current project include (but at not limited to):
+ 
+•	Butterflies through Time: using wildlife of the past to guide conservation of the future, Esmee Fairbairn funding, led by the University Museum of Zoology and Department of Zoology, 2019-2022
+•	Genetic loss in UK flora over the past 200 years, after successful pilot project with an MPhil student in the Department of Plant Sciences 2018-19, NERC grant submitted, led by University of Edinburgh 
+•	Snow algae – are they the most abundant photosynthetic organisms in terrestrial Antarctica?, NERC funded, led by Department of Plant Sciences and British Antarctic Survey, 2019-
+•	Physiology and stable isotope ecology of moss growth for modelling spatial and temporal climatic signals, NERC funded, led by Department of Plant Sciences 2018-
+•	Phylogenetic revision of the family Neuradaceae, led by Department of Plant Sciences, 2018-
+•	Growing Networks, Getty funded project, led by th Fitzwilliam Museum (non-CU partners including Royal Horticultural Society, Royal Botanic Gardens Kew, Natural History Museum, and Royal Botanic Gardens Edinburgh) 
+•	Mobile Museum: Economic Botany in circulation, AHRC funded project, led by Royal Botanic Gardens Kew and Royal Holloway University of London (non-CU partners include World Museum Liverpool, National Museum Wales, and Glasgow Museum)
