@@ -4,12 +4,66 @@ title: Museum of Classical Archaeology
 permalink: /collections/classical-archaeology
 image: moca
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh sed pulvinar proin gravida hendrerit. Sagittis eu volutpat odio facilisis mauris sit amet massa vitae. Posuere urna nec tincidunt praesent semper. Donec adipiscing tristique risus nec feugiat in fermentum. Sed velit dignissim sodales ut. Arcu ac tortor dignissim convallis aenean. Lectus sit amet est placerat in. In tellus integer feugiat scelerisque varius morbi enim. Nullam vehicula ipsum a arcu cursus vitae congue. Pulvinar sapien et ligula ullamcorper malesuada. Enim tortor at auctor urna nunc id. Ac auctor augue mauris augue neque gravida in.
+<h1>The Museum of Classical Archaeology houses one of the finest collections of plaster casts of classical sculpture in the world – and is dedicated to the study and teaching of the classical past through the material and visual cultures of ancient Greece and Rome. MOCA is embedded in the Faculty of Classics.</h1>
 
-Senectus et netus et malesuada fames ac turpis egestas. Et netus et malesuada fames ac turpis egestas. Volutpat sed cras ornare arcu dui vivamus. Nec feugiat nisl pretium fusce id velit. Nunc faucibus a pellentesque sit amet porttitor eget dolor morbi. Est sit amet facilisis magna etiam tempor orci. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium. Id velit ut tortor pretium viverra. Commodo odio aenean sed adipiscing. Magna eget est lorem ipsum dolor. Dui nunc mattis enim ut tellus elementum sagittis vitae. Ut tortor pretium viverra suspendisse potenti nullam. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Odio ut enim blandit volutpat maecenas volutpat. Blandit volutpat maecenas volutpat blandit aliquam etiam erat. Consequat mauris nunc congue nisi vitae suscipit. Laoreet id donec ultrices tincidunt arcu non. Morbi blandit cursus risus at ultrices mi. Varius duis at consectetur lorem donec. Mauris ultrices eros in cursus turpis massa tincidunt dui ut.
+<h2>The Museum was founded in 1884 to house the Fitzwilliam Museum’s growing collection of plaster casts. Most of the casts in the collection are over 100 years old, and some are more than 200 years old. MOCA also holds a collection of ancient artefacts, more than 10,000 sherds and 5,000 squeezes of ancient inscriptions. The Faculty of Classics houses a purpose-built archive which includes the Mycenae Excavation and Publication Archive.</h2>
 
-Fames ac turpis egestas sed tempus urna et. Mattis aliquam faucibus purus in massa tempor nec. Scelerisque varius morbi enim nunc faucibus. Cras fermentum odio eu feugiat pretium nibh ipsum consequat nisl. Mattis molestie a iaculis at erat. Risus nullam eget felis eget nunc lobortis mattis aliquam. Eu facilisis sed odio morbi quis commodo odio. Turpis egestas integer eget aliquet nibh praesent. Feugiat nisl pretium fusce id velit ut. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien.
+<h2>Key objects</h2>
+-	Farnese Hercules, plaster cast: part of a collection of c. 30 plaster casts after the antique, originally from a sculpture gallery in a London house owned by Sir George Wombwell and donated to the Fitzwilliam in 1850 by a Mr. John Fitzpatrick.
+-	Peplos Kore, unpainted and painted plaster casts: well-known example of an attempt to envision the effects of ancient polychromy, based on watercolours of the original made at the time of its discovery (and therefore also part of the historiography of ancient polychromy).
+-	East and West pediments from the Temple of Zeus at Olympia, plaster casts: rare examples of the complete pediments from Olympia, purchased by Sidney Colville, the first director of the Fitzwilliam Museum between 1877 and 1884.
+-	Samian Kouros, plaster cast: cast of the largest kouros ever discovered, purchased in 2007.
+-	Terme Boxer, plaster cast: cast of a Hellenistic-style boxer discovered in Rome, which was treated in 2015 to replicate the colour of the bronze original.
 
-Tortor pretium viverra suspendisse potenti nullam ac tortor. Aliquet enim tortor at auctor urna nunc id. Ut sem nulla pharetra diam sit amet nisl suscipit. Eu turpis egestas pretium aenean pharetra magna. Velit laoreet id donec ultrices tincidunt arcu non sodales. In hendrerit gravida rutrum quisque non tellus orci ac auctor. Sem fringilla ut morbi tincidunt augue. In iaculis nunc sed augue lacus. Vivamus at augue eget arcu dictum varius duis at. Massa massa ultricies mi quis hendrerit dolor magna eget est. In nibh mauris cursus mattis molestie a iaculis at. Adipiscing elit pellentesque habitant morbi. Venenatis urna cursus eget nunc scelerisque. In cursus turpis massa tincidunt.
+<h2>Collection status</h2>
+The Museum is Accredited. 
 
-Aliquam malesuada bibendum arcu vitae. Sed augue lacus viverra vitae congue. At ultrices mi tempus imperdiet nulla. Tellus in hac habitasse platea. Nulla pellentesque dignissim enim sit amet venenatis urna cursus. Nam at lectus urna duis convallis convallis tellus id interdum. Platea dictumst quisque sagittis purus sit amet volutpat. Tristique magna sit amet purus. Pharetra convallis posuere morbi leo urna molestie. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Tortor consequat id porta nibh venenatis cras sed. Potenti nullam ac tortor vitae purus faucibus ornare. Sit amet nisl suscipit adipiscing bibendum. Sodales ut eu sem integer vitae justo. Eu sem integer vitae justo eget magna fermentum iaculis eu. Faucibus in ornare quam viverra orci sagittis. Nunc congue nisi vitae suscipit tellus mauris a. Nam aliquam sem et tortor consequat id. Non sodales neque sodales ut. Commodo elit at imperdiet dui accumsan sit amet nulla.
+<h2>Research Interests</h2>
+
+<h3>Research strengths</h3>
+
+-	The material culture of the Greek and Roman world, pottery, epigraphy, and especially sculpture.
+-	Ways of seeing classical sculpture, including issues of iconography, replication, collecting and restoration-history, sculpture as a medium.
+-	The history of plaster-casts, plaster-cast collections and plaster-cast production.
+-	The conservation of plaster-casts.
+-	Classical archaeology more broadly (for an overview of research interests in classical art and archaeology in the Faculty of Classics, please see our website: https://www.classics.cam.ac.uk/directory/research-themes/d-caucus)
+
+<h3>Research projects</h3>
+
+-	Participation in research-led exhibitions (e.g. Codebreakers and Groundbreakers and Following Hercules: the Story of Classical Art) 
+-	Guidebook: we are currently producing a new guidebook for the collection, entitled Lessons in Classical Sculpture
+-	Online catalogue: the transfer of the online catalogue to a new system is allowing further research by the Curator, Museums and Collections Assistant, and by graduate students of the Faculty on individual casts and originals.
+
+<h3>Future priority areas, with potential for research collaboration</h3>
+
+-	Greek and Roman vases, pottery and small finds: our relatively small collection of ancient artefacts has never been fully published. There is, for instance, potential to develop a CVA (Corpus Vasorum Antiquorum) volume for the collection.
+-	Squeeze project: We are currently cataloguing and reboxing our extensive squeeze collection. As part of this project, we will need to work on identifying the unidentified inscriptions, most of which are Greek, but some Syllabic.
+-	Sherds: We are working on improving the cataloguing of our large and varied collection of sherds. There is potential here for research collaboration on specific groups of sherds, or sherds from specific findspots.
+-	Casts: In dialogue with UCM conservator, Kirstie French, we have initiated a rolling programme of conservation work which will lead to a grant application.
+
+<h2>Context and Capacity</h2>
+
+<h3>Associated academic departments</h3>
+
+The Museum is embedded in the Faculty of Classics.
+
+<h3>Staffing</h3>
+
+3 (1 full time, two part time)
+
+<h3>Planning timeframe</h3>
+
+We are booked up for exhibitions three years in advance, but for small displays there is more flexibility. We follow university and UCM timetables for joint programming (e.g. Festival of Ideas, Summer at the Museums), but are otherwise relatively flexible in terms of events.
+
+<h2>Further information</h2>
+
+<h3>Key contact</h3>
+
+Dr Susanne Turner, Curator 
+<a href="mailto:smt41@cam.ac.uk">Email</a>
+01223 335153
+
+<h3>The Museum online</h3>
+
+<a href="http://www.classics.cam.ac.uk/museum">Website</a>
+<a href="http://twitter.com/classarch">Twitter</a>
