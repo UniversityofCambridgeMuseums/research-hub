@@ -56,9 +56,11 @@ For all project proposals, we’ll ask you to work with relevant colleagues in t
 ### The Museum online
 
 [Website](http://www.fitzmuseum.cam.ac.uk)
+
 [Twitter](http://twitter.com/fitzmuseum_uk)
 
 ### Key contact
 
 Jo Vine, Research Facilitator
+
 [Email](mailto:jrv31@cam.ac.uk)
