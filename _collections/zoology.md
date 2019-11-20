@@ -33,6 +33,7 @@ The University Museum of Zoology includes research programmes that study major a
  <li>Conservation Biology and Ecology</li>
  <li>Malacology</li>
  <li>Vertebrate Palaeontology and Evolution</li>
+</ul>
 <p>
  
 Other areas of interest include museums as sites of scientific communication, and as biased windows onto the natural world.
@@ -43,7 +44,7 @@ Other areas of interest include museums as sites of scientific communication, an
  <li>Digital engagement</li>
  <li>History of the collection</li>
  <li>History of science</li>
-
+</ul>
 <h2>Context and Capacity</h2>
 
 <h3>Associated academic departments</h3>
