@@ -4,15 +4,15 @@ title: Cambridge University Herbarium
 permalink: /collections/herbarium
 image: herbarium
 ---
-<h2>Cambridge University Herbarium holds an estimated 1.1 million dried pressed plant specimens, representing over 300 years of species discovery, expeditions, and research all over the world.</h2>
+## Cambridge University Herbarium holds an estimated 1.1 million dried pressed plant specimens, representing over 300 years of species discovery, expeditions, and research all over the world.
 
-The Herbarium is especially rich in ‘type’ specimens – the original specimens used to describe new species (numbering an estimated 50,000 individual specimens), specimens of historic importance, and British plants.
+The Herbarium is especially rich in ‘type’ specimens, the original specimens used to describe new species (numbering an estimated 50,000 individual specimens), specimens of historic importance, and British plants.
 
 Particularly notable collections from the 19th century include the collections of notable individuals such as John Stevens Henslow, Charles Darwin, Alfred Russel Wallace, Nathaniel Wallich, John Lindley, David Douglas, and Richard Spruce. 
 
 The fourth largest collection in the UK, the Cambridge University Herbarium is a rich resource for many scientific and historical fields of research, from evolutionary genetic studies to present day conservation science and investigations into colonial history and development of scientific ideas about the natural world. The Herbarium has an associated and important botanical library and collections of botanical illustrations and artwork, photographs, photographic slides, and microscope slides.  
 
-Key items (collections) include:
+### Key items (collections) include:
 
 * An estimated 50,000 nomenclatural type specimens – the original plant specimens taxonomic plant names are attached to in perpetuity
 * Nearly 1,000 specimens collected by Charles Darwin on the Voyage of the Beagle (1831-35) and in the UK
