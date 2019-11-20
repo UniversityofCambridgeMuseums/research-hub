@@ -6,8 +6,8 @@ image: zoology
 ---
 <h2>The Museum of Zoology is one of the country’s largest and most important natural history museums, with over two million modern and fossil specimens from across the world.</h2> 
 The specimens we hold are a record of life on earth collected over the past 200 years, all too many from animals now that are extinct.
-
-Embedded within the University’s Department of Zoology, and now physically sharing a building with the Cambridge Conservation Initiative (the world’s largest coming together of international environmental NGOs, dedicated to helping to conserve biodiversity for future generations), a key strategic theme of the museum is environmental conservation. 
+<p>
+Embedded within the University’s Department of Zoology, and physically sharing a building with the <a href="http://www.cambridgeconservation.org/">Cambridge Conservation Initiative</a> (the world’s largest coming together of international environmental NGOs, dedicated to helping to conserve biodiversity for future generations), a key strategic theme of the museum is environmental conservation. 
 
 The Vertebrate Store houses our non-avian dry collections of both fossil and recent vertebrates. Bones and fossils of everything from Aardvarks to Zebras are available for researchers to access. For example, thylacince DNA has been analysed from this collection.
 
@@ -29,11 +29,11 @@ Our curators' research interests include systematics, ecology, evolution, and pa
 Research areas
 
 The University Museum of Zoology includes research programmes that study major aspects of animal life. Current programmes include:
-
-•	Evolutionary Genetics and Genomics
-•	Conservation Biology and Ecology
-•	Malacology
-•	Vertebrate Palaeontology and Evolution
+<p><ul>
+ <li>Evolutionary Genetics and Genomics</li>
+ <li>Conservation Biology and Ecology</li>
+ <li>Malacology</li>
+ <li>Vertebrate Palaeontology and Evolution</li>
  
 Other areas of interest include museums as sites of scientific communication, and as biased windows onto the natural world.
 
@@ -58,6 +58,7 @@ Exhibitions are planned at least one year ahead; for public programmes please al
 <h3>The Museum online</h3>
 
 <a href="http://www.museum.zoo.cam.ac.uk/collections-research/research">Website</a>
+<p>
 <a href="http://twitter.com/zoologymuseum">Twitter</a>
 
 <h3>Key contact</h3>
