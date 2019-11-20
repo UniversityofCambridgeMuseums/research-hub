@@ -33,3 +33,32 @@ Another significant area of development has been research examining the value of
 
 ## Future research 
 
+The Museum is particularly keen to engage in research collaborations across the University, within the University of Cambridge Museums and beyond around three main areas of interrelated focus: art and our lives, making and technology, art and science.  
+
+The Fitzwilliam is also in the process of developing annual themes. For academic year 2019/20 the theme is Sensual/Virtual, for 2020/21 Truth will be the focus and 2021/22 will look at Islands and Empires. We are keen that activities happening in each academia year have a clear engagement with the relevant theme and will be aiming to release themes 5-10 years ahead to give researchers the opportunity to plan collaborations with the Museum into long-running research projects. 
+
+## Context and capacity 
+
+### Related academic departments
+
+The Museum has particularly close links with the Department of History of Art but also with other arts and humanities departments, including Archaeology, Classics, English, Modern and Medieval Languages and History. We also work with researchers in science-based disciplines including Applied Mathematics and Theoretical Physics and Engineering. 
+
+### Staffing
+
+150 full time equivalent staff.
+
+### Planning timeframe
+
+As described above, the Museum is planning exhibitions and public programming linked to its annual themes. We are keen to collaborate with researchers at all levels of engagement: from the small-scale – such as lunchtime talks, delivering a session during a museum Late or supporting undergraduate and postgraduate dissertations on the collections or museum practice – to partnering with us on developing and delivering major research-led exhibitions.  
+
+For all project proposals, we’ll ask you to work with relevant colleagues in the Museum to put together a project proposal that will be approved by our Senior Management Team. We plan exhibitions around 3-5 years in advance and all exhibitions are approved by the Museum’s exhibitions committee, which meets around 3-4 times per year. 
+
+### The Museum online
+
+[Website](http://www.fitzmuseum.cam.ac.uk)
+[Twitter](http://twitter.com/fitzmuseum_uk)
+
+### Key contact
+
+Jo Vine, Research Facilitator
+[Email](mailto:jrv31@cam.ac.uk)
