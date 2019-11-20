@@ -4,7 +4,7 @@ title: Cambridge University Herbarium
 permalink: /collections/herbarium
 image: herbarium
 ---
-Cambridge University Herbarium holds an estimated 1.1 million dried pressed plant specimens, representing over 300 years of species discovery, expeditions, and research all over the world.
+<h2>Cambridge University Herbarium holds an estimated 1.1 million dried pressed plant specimens, representing over 300 years of species discovery, expeditions, and research all over the world.</h2>
 
 The Herbarium is especially rich in ‘type’ specimens – the original specimens used to describe new species (numbering an estimated 50,000 individual specimens), specimens of historic importance, and British plants.
 
