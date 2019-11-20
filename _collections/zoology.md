@@ -26,7 +26,6 @@ The collection is Accredited and Designated.
 Our collections and academic outputs lead and support on environmental conservation research, and it is a principal theme in our interpretation and public and formal learning programmes. Our taxonomic and evolutionary research strands, explaining the origin of biodiversity and describing its distribution, are a significant complementary strength.
 
 Our curators' research interests include systematics, ecology, evolution, and palaeontology. Molecular techniques and modern scanning methods are transforming the way we work.
-Research areas
 
 The University Museum of Zoology includes research programmes that study major aspects of animal life. Current programmes include:
 <p><ul>
@@ -34,15 +33,16 @@ The University Museum of Zoology includes research programmes that study major a
  <li>Conservation Biology and Ecology</li>
  <li>Malacology</li>
  <li>Vertebrate Palaeontology and Evolution</li>
+<p>
  
 Other areas of interest include museums as sites of scientific communication, and as biased windows onto the natural world.
 
 <h3>Areas for future research</h3>
-
-•	Museology and public engagement
-•	Digital engagement.
-•	History of collection
-•	History of science
+<ul>
+<li>Museology and public engagement</li>
+ <li>Digital engagement</li>
+ <li>History of the collection</li>
+ <li>History of science</li>
 
 <h2>Context and Capacity</h2>
 
