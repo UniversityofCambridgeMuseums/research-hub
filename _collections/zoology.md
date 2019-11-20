@@ -4,12 +4,48 @@ title: Museum of Zoology
 permalink: /collections/zoology
 image: zoology
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh sed pulvinar proin gravida hendrerit. Sagittis eu volutpat odio facilisis mauris sit amet massa vitae. Posuere urna nec tincidunt praesent semper. Donec adipiscing tristique risus nec feugiat in fermentum. Sed velit dignissim sodales ut. Arcu ac tortor dignissim convallis aenean. Lectus sit amet est placerat in. In tellus integer feugiat scelerisque varius morbi enim. Nullam vehicula ipsum a arcu cursus vitae congue. Pulvinar sapien et ligula ullamcorper malesuada. Enim tortor at auctor urna nunc id. Ac auctor augue mauris augue neque gravida in.
+<h2>The Museum of Zoology is one of the country’s largest and most important natural history museums, with over two million modern and fossil specimens from across the world.</h2> 
+The specimens we hold are a record of life on earth collected over the past 200 years, all too many from animals now that are extinct.
 
-Senectus et netus et malesuada fames ac turpis egestas. Et netus et malesuada fames ac turpis egestas. Volutpat sed cras ornare arcu dui vivamus. Nec feugiat nisl pretium fusce id velit. Nunc faucibus a pellentesque sit amet porttitor eget dolor morbi. Est sit amet facilisis magna etiam tempor orci. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium. Id velit ut tortor pretium viverra. Commodo odio aenean sed adipiscing. Magna eget est lorem ipsum dolor. Dui nunc mattis enim ut tellus elementum sagittis vitae. Ut tortor pretium viverra suspendisse potenti nullam. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Odio ut enim blandit volutpat maecenas volutpat. Blandit volutpat maecenas volutpat blandit aliquam etiam erat. Consequat mauris nunc congue nisi vitae suscipit. Laoreet id donec ultrices tincidunt arcu non. Morbi blandit cursus risus at ultrices mi. Varius duis at consectetur lorem donec. Mauris ultrices eros in cursus turpis massa tincidunt dui ut.
+Embedded within the University’s Department of Zoology, and now physically sharing a building with the Cambridge Conservation Initiative (the world’s largest coming together of international environmental NGOs, dedicated to helping to conserve biodiversity for future generations), a key strategic theme of the museum is environmental conservation. 
 
-Fames ac turpis egestas sed tempus urna et. Mattis aliquam faucibus purus in massa tempor nec. Scelerisque varius morbi enim nunc faucibus. Cras fermentum odio eu feugiat pretium nibh ipsum consequat nisl. Mattis molestie a iaculis at erat. Risus nullam eget felis eget nunc lobortis mattis aliquam. Eu facilisis sed odio morbi quis commodo odio. Turpis egestas integer eget aliquet nibh praesent. Feugiat nisl pretium fusce id velit ut. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien.
+The Vertebrate Store houses our non-avian dry collections of both fossil and recent vertebrates. Bones and fossils of everything from Aardvarks to Zebras are available for researchers to access. For example, thylacince DNA has been analysed from this collection.
 
-Tortor pretium viverra suspendisse potenti nullam ac tortor. Aliquet enim tortor at auctor urna nunc id. Ut sem nulla pharetra diam sit amet nisl suscipit. Eu turpis egestas pretium aenean pharetra magna. Velit laoreet id donec ultrices tincidunt arcu non sodales. In hendrerit gravida rutrum quisque non tellus orci ac auctor. Sem fringilla ut morbi tincidunt augue. In iaculis nunc sed augue lacus. Vivamus at augue eget arcu dictum varius duis at. Massa massa ultricies mi quis hendrerit dolor magna eget est. In nibh mauris cursus mattis molestie a iaculis at. Adipiscing elit pellentesque habitant morbi. Venenatis urna cursus eget nunc scelerisque. In cursus turpis massa tincidunt.
+Over 250,000 shells and slides collected around the globe fill the Invertebrate Store. Many were collected in the Mediterranean and Red Sea before the Suez Canal opened in 1869, giving scientists a glimpse at which species have moved to this artificial waterway. 
 
-Aliquam malesuada bibendum arcu vitae. Sed augue lacus viverra vitae congue. At ultrices mi tempus imperdiet nulla. Tellus in hac habitasse platea. Nulla pellentesque dignissim enim sit amet venenatis urna cursus. Nam at lectus urna duis convallis convallis tellus id interdum. Platea dictumst quisque sagittis purus sit amet volutpat. Tristique magna sit amet purus. Pharetra convallis posuere morbi leo urna molestie. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Tortor consequat id porta nibh venenatis cras sed. Potenti nullam ac tortor vitae purus faucibus ornare. Sit amet nisl suscipit adipiscing bibendum. Sodales ut eu sem integer vitae justo. Eu sem integer vitae justo eget magna fermentum iaculis eu. Faucibus in ornare quam viverra orci sagittis. Nunc congue nisi vitae suscipit tellus mauris a. Nam aliquam sem et tortor consequat id. Non sodales neque sodales ut. Commodo elit at imperdiet dui accumsan sit amet nulla.
+Over one million pinned insects collected over the past 200 years are stored in the Insect Room. These are a critical record of environmental change and therefore a key area of active research for the Museum. 
+
+30,000 study skins and bones of birds, as well as over 10,000 clutches of eggs form the collections in the Bird Room. The collections contain many of the Museum’s most iconic treasures including great auks, dodos and passenger pigeons.
+
+There are over 20,000 jars in the Spirit Store filled with the soft tissue remains of vertebrates and invertebrates preserved in alcohol and formaldehyde.
+
+<h3>Collection status</h3>
+The collection is Accredited and Designated.
+
+<h3>Current research interests and strengths</h>
+Our collections and academic outputs lead and support on environmental conservation research, and it is a principal theme in our interpretation and public and formal learning programmes. Our taxonomic and evolutionary research strands, explaining the origin of biodiversity and describing its distribution, are a significant complementary strength.
+
+Our curators' research interests include systematics, ecology, evolution, and palaeontology. Molecular techniques and modern scanning methods are transforming the way we work.
+Research areas
+
+The University Museum of Zoology includes research programmes that study major aspects of animal life. Current programmes include:
+
+•	Evolutionary Genetics and Genomics
+•	Conservation Biology and Ecology
+•	Malacology
+•	Vertebrate Palaeontology and Evolution
+ 
+The collections are also used by other research workers in the Department of Zoology and other departments within the University including Plant Sciences, Genetics, Physiology, Biological Anthropology, Archaeology, Earth Sciences, the Fitzwilliam Museum, the Scott Polar Research Institute and the Veterinary School.
+
+Academic researchers from institutions worldwide are welcomed to the Museum each year.
+
+Other areas of interest include museums as sites of scientific communication, and as biased windows onto the natural world.
+
+<h3>Areas for future research</h3>
+
+•	Museology and public engagement
+•	Digital engagement.
+•	History of collection
+•	History of science
+
+<h2>
