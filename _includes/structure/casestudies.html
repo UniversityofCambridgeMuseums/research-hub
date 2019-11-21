@@ -14,7 +14,7 @@
           <div class="center-cropped img-fluid rounded-circle float-right"
           style="background-image: url('/images/casestudies/{{ collection.image }}');">
         </div>
-        {{ collection.content | truncate: 300 }}
+        {{ collection.content | strip_html | truncate: 300 }}
       </div>
     </div>
     <a href="{{ collection.permalink }}" class="btn btn-dark">Read more</a>
@@ -34,7 +34,7 @@
         <div class="center-cropped img-fluid rounded-circle float-right"
         style="background-image: url('/images/casestudies/{{ collection.image }}');">
       </div>
-        {{ collection.content | truncate: 300 }}
+        {{ collection.content | strip_html | truncate: 300 }}
       </div>
     </div>
     <a href="{{ collection.permalink }}" class="btn btn-dark">Read more</a>
