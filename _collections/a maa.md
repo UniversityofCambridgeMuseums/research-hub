@@ -3,6 +3,7 @@ layout: collections
 title: Museum of Archaeology and Anthropology
 permalink: /collections/archaeology-and-anthropology
 image: maa
+order: 0
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh sed pulvinar proin gravida hendrerit. Sagittis eu volutpat odio facilisis mauris sit amet massa vitae. Posuere urna nec tincidunt praesent semper. Donec adipiscing tristique risus nec feugiat in fermentum. Sed velit dignissim sodales ut. Arcu ac tortor dignissim convallis aenean. Lectus sit amet est placerat in. In tellus integer feugiat scelerisque varius morbi enim. Nullam vehicula ipsum a arcu cursus vitae congue. Pulvinar sapien et ligula ullamcorper malesuada. Enim tortor at auctor urna nunc id. Ac auctor augue mauris augue neque gravida in.
 
