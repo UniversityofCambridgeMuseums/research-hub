@@ -7,5 +7,3 @@ permalink: /projects/whipplefakes
 ---
 
 # Are there fakes in the Whipple Museum?
-
-## 
