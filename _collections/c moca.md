@@ -10,7 +10,7 @@ The Museum was founded in 1884 to house the Fitzwilliam Museum’s growing colle
 
 ## Key objects
 
-<b>Farnese Hercules</b> plaster cast: part of a collection of c. 30 plaster casts after the antique, originally from a sculpture gallery in a London house owned by Sir George Wombwell and donated to the Fitzwilliam in 1850 by a Mr. John Fitzpatrick.
+**Farnese Hercules** plaster cast: part of a collection of c. 30 plaster casts after the antique, originally from a sculpture gallery in a London house owned by Sir George Wombwell and donated to the Fitzwilliam in 1850 by a Mr. John Fitzpatrick.
 
 **Peplos Kore**, unpainted and painted plaster casts: well-known example of an attempt to envision the effects of ancient polychromy, based on watercolours of the original made at the time of its discovery (and therefore also part of the historiography of ancient polychromy).
 
