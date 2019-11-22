@@ -19,7 +19,9 @@ Since Price's pioneering work the Mensing name has loomed large over scientific 
 
 Our methodology includes both traditional techniques of curatorial analysis – exploring provenance; cross-comparison with other collections; scrutiny of engraving accuracy, palaeographic style, size, and quality of craftsmanship – and metallographic analysis conducted using X-ray fluorescence (XRF) analysis.
 
-![Whipple Image](https://github.com/UniversityofCambridgeMuseums/research-hub/blob/master/images/casestudies/Whipple%20image.jpg "Whipple Image") 
+![Terrestrial globe](https://github.com/UniversityofCambridgeMuseums/research-hub/blob/master/images/casestudies/Whipple%20image.jpg "Whipple Museum terrestrial globe") 
+A silver terrestrial globe, purportedly by Paulus de Furlanis, c. 1575, but now identified as a modern fake, c. 1925 (Wh.0365).
+
 
 ### Resources
 
