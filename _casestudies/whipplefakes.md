@@ -6,9 +6,7 @@ image: Whipple image.jpg
 permalink: /projects/whipplefakes
 ---
 
-# Are there fakes in the Whipple Museum?
-
-Are there fakes scientific instruments hiding in our collections, and if so, how do we identify them?
+## Are there fake scientific instruments hiding in the Whipple Museum's collections, and if so, how do we identify them?
 
 
 ## Project overview
