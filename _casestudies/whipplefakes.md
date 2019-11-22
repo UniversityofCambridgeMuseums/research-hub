@@ -19,6 +19,8 @@ Since Price's pioneering work the Mensing name has loomed large over scientific 
 
 Our methodology includes both traditional techniques of curatorial analysis – exploring provenance; cross-comparison with other collections; scrutiny of engraving accuracy, palaeographic style, size, and quality of craftsmanship – and metallographic analysis conducted using X-ray fluorescence (XRF) analysis.
 
+![](Whipple image.jpg)
+
 ### Resources
 
 The staff time of the three principle investigators was covered by their employers. The project has benefited from a great deal of pro bono work by researcher on early mathematical instruments Dr John Davis. Dr Davis conducted XRF analysis of a wide range of objects in the Whipple Museum’s collection, work that has been crucial for the project.
