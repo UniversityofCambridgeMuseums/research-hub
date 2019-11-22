@@ -17,7 +17,7 @@ Since Price's pioneering work the Mensing name has loomed large over scientific 
 
 Our methodology includes both traditional techniques of curatorial analysis – exploring provenance; cross-comparison with other collections; scrutiny of engraving accuracy, palaeographic style, size, and quality of craftsmanship – and metallographic analysis conducted using X-ray fluorescence (XRF) analysis.
 
-![Terrestrial globe](https://github.com/UniversityofCambridgeMuseums/research-hub/blob/master/images/Whipple%20image.jpg "Whipple Museum terrestrial globe") 
+![Terrestrial globe](/images/Whipple%20image.jpg){: .img-fluid }
 A silver terrestrial globe, purportedly by Paulus de Furlanis, c. 1575, but now identified as a modern fake, c. 1925 (Wh.0365).
 
 
@@ -28,8 +28,6 @@ The staff time of the three principle investigators was covered by their employe
 ### Audience 
 
 Historians of science; museum curators; antique dealers; collectors of scientific instruments
-
-
 
 ## Personnel
 
@@ -43,8 +41,6 @@ Historians of science; museum curators; antique dealers; collectors of scientifi
 ### Collaborator
 
 James Hyslop, Head of Department, [Science and Natural History, Christies, London](https://www.christies.com/departments/Science-Natural-History-47-1.aspx)
-
-
 
 ## Outcomes
 
