@@ -58,3 +58,7 @@ Boris Jardine, Joshua Nall, and James Hyslop, 'More Than Mensing? Revisiting the
 
 Further details on methods used can be found a [Chemistry World blog post by Nall](https://www.chemistryworld.com/opinion/how-to-spot-fake-scientific-instruments/3008560.article)
 
+## What next?
+
+The project is ongoing, and we plan to develop a more systematic dataset of historic alloy compositions for use in dating and authentication scientific instruments. This will then be married to extensive existing data relating to instrument-makers and global collections of historic scientific instruments, with the ultimate aim being a web portal with a searchable database and related digital humanities resources.
+
